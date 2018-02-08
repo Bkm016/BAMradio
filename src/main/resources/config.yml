@@ -1,0 +1,29 @@
+# BAMradio -- Author: FR34KYN01535, 坏黑
+# For more information visit http://dev.bukkit.org/server-mods/bamradio/
+
+# 是否在服务器启动后自动播放
+auto-play: true
+
+# 初始音量 (可以是负数)
+volume: 15
+
+# 自动播放下一首
+auto-play-next: true
+
+# 强制使用软件播放器
+force-software-sequencer: false
+
+# 显示曲目名称
+show-current-track: true
+
+# 只有以下区域播放音乐, 使用 'all_region' 代表全部区域
+enable_region: 
+- 'all_region'
+
+# 只有以下世界播放音乐, 使用 'all_world' 代表全部世界
+enable_world: 
+- 'all_world'
+
+# 语言文件
+# 请勿填写不存在的语言文件
+language: "en_US"

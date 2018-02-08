@@ -1,0 +1,13 @@
+name: BAMradio
+main: yt.bam.bamradio.BAMradio
+version: 1.9
+author: [FR34KYN01535, 坏黑]
+description: Plays midi files.
+
+depend: [TabooLib]
+softdepend: [NoteBlockAPI, WorldGuard]
+
+commands:
+  bamradio:
+    aliases: [br]
+    description: Show all BAMradio commands
